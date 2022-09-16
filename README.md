@@ -1,9 +1,15 @@
+This repo is forked from https://github.com/ahmedaq/HCV-E2 
+2022.9.16
+
 ## Table of Contents
-*  [Overview](#overview)
-*  [Details](#details)
-*  [Requirements](#requirements)
-*  [Usage](#usage)
-*  [Troubleshooting](#troubleshooting)
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Details](#details)
+    - [Title of paper](#title-of-paper)
+    - [Authors](#authors)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Troubleshooting](#troubleshooting)
 
 ## Overview
 This software package comprises scripts that include the main functions for reproducing the results presented in the paper titled "Identifying immunologically-vulnerable regions of the HCV E2 glycoprotein and broadly neutralizing antibodies that target them".
