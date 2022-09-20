@@ -65,7 +65,7 @@ set(gca,'XTickLabel',{'HVR1','CD81bs','Domain A','Domain B','Domain C','Domain D
 xtickangle(30)
 ylabel('Minimum escape time')
 xlim([0.5 7.5])
-post_proc_fig
+%post_proc_fig
 
 %% Heatmap -- for calculating n_e^tau
 

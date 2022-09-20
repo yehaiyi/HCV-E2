@@ -202,7 +202,7 @@ ylabel('Classification metric score')
 plot(thresh_max_Fscore*ones(1,11),0:0.1:1,'--','Color','k','LineWidth',1)
 % plot(thresh_max_MCC*ones(1,11),0:0.1:1,':','Color','k','LineWidth',.5)
 
-post_proc_fig
+%post_proc_fig
 set(gca,'box','on','TickDir','in')
  h.String = {'F1 score'  'MCC'};
 text(thresh_max_Fscore-30,1.04,sprintf('%d',thresh_max_Fscore),'Color','k','FontWeight','bold')

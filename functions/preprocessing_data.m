@@ -76,7 +76,7 @@ bar(1:L,no_aa_site,0.8,'FaceColor',blue)
 xlim([0 L+1])
 xlabel('Residue')
 ylabel('No. of amino acids')
-post_proc_fig
+%post_proc_fig
 mean_no_aa_at_a_site = mean(no_aa_site);
 median_no_aa_at_a_site = median(no_aa_site);
 

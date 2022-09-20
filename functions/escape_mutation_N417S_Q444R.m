@@ -87,7 +87,7 @@ EnergySeq_N417S(1:2) = [];
 
 figure;
 gray = [0.6 0.6 0.6];
-generatePDF([EnergySeq_N417S-Energy_baseSeq].',gray,'count',50)
+%generatePDF([EnergySeq_N417S-Energy_baseSeq].',gray,'count',50)
 set(gca,'XMinorTick','off',...
     'YMinorTick','off')
 xlabel('Energy (H77_{N417S+X}) - Energy (H77_{N417S})','FontSize',8)

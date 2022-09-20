@@ -105,7 +105,7 @@ set(gca,'XTick',1:16,'XTickLabel',...
 xtickangle(45)
 ylabel('Minimum escape time')
 xlim([0.5 16.5])
-post_proc_fig
+%post_proc_fig
 
 
 %Heatmap
